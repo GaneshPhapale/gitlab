@@ -1,0 +1,51 @@
+****for kubernetes****
+
+#######################***KUBERNATE DOCS OFFICIAL***##############################
+
+https://kubernetes.io/docs/concepts/
+
+###################################################################
+
+--introduction---
+
+https://www.youtube.com/watch?v=IMOZCDhH7do
+
+
+https://www.youtube.com/playlist?list=PLot-YkcC7wZ9xwMzkzR_EkOrPahSofe5Q
+
+#############################################################################
+****-----****
+lINUX CoMMaNdS
+https://www.tecmint.com/20-advanced-commands-for-linux-experts/
+
+****----*****######################################################
+
+Linux Hacking tOOLS
+
+https://www.opentechinfo.com/hack-android/
+
+#############******--------********#############
+
+Ansible Module....
+
+https://docs.ansible.com/ansible/latest/dev_guide/developing_modules_general.html
+
+###************##################
+
+
+
+FActoHR +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+https://app.factohr.com/datamato/Default.aspx#/Attendance/OnlineAttendance.aspx
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+********************************************************************************
+DOCKER-LINK
+
+https://www.youtube.com/watch?v=DgoKjlDteEA&list=PLea0WJq13cnDsF4MrbNaw3b4jI0GT9yKt&index=1
+https://www.youtube.com/watch?v=wi-MGFhrad0&list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
