@@ -32,15 +32,6 @@ https://docs.ansible.com/ansible/latest/dev_guide/developing_modules_general.htm
 
 ###************##################
 
-
-
-FActoHR +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-https://app.factohr.com/datamato/Default.aspx#/Attendance/OnlineAttendance.aspx
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
 ********************************************************************************
 DOCKER-LINK
 
